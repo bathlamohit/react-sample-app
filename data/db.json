@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+      "category": "mobile",
+      "title": "APPLE",
+      "message": "Nice Phone for Photos",
+      "price": 34000,
+      "id": 1
+    },
+    {
+      "category": "mobile",
+      "title": "SAMSUNG",
+      "message": "Nice Phone for maintenance",
+      "price": 19000,
+      "id": 2
+    },
+    {
+      "category": "mobile",
+      "title": "MI",
+      "message": "Nice Phone for Games",
+      "price": 11000,
+      "id": 3
+    },
+    {
+      "category": "LED",
+      "title": "SAMSUNG",
+      "message": "Nice LED for home",
+      "price": 16000,
+      "id": 4
+    },
+    {
+      "category": "LED",
+      "title": "ONIDA",
+      "message": "Nice LED for office",
+      "price": 24000,
+      "id": 5
+    },
+    {
+      "category": "LED",
+      "title": "BPL",
+      "message": "Nice LED for rented home",
+      "price": 5000,
+      "id": 6
+    }
+  ]
+}
